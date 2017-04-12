@@ -8,7 +8,7 @@ O arquivo que deve ser lido contém, na primeira linha, o número de colunas e l
 
 No exemplo a seguir, é descrita uma matriz de 4 colunas por 3 linhas:
 
-4 3/n
+4 3\n
 1001
 1100
 0001
